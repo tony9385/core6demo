@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0693bb67-4516-4f10-9532-2a196b4444aa": {
+      "ProjectGuid": "0693bb67-4516-4f10-9532-2a196b4444aa",
+      "DisplayName": "MES.ConfigService",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

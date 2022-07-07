@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VvsY3zhquDZ1BichrOuVDyzPQ35n0nsVlElcZNxXeqdcVS/cfbU8G6p/p3hOND3BwhgERJ/0jPB5rEfaVdsTgA==",
+  "dgSpecHash": "jYNToeRrbBc6V7ErfapsvfxxRD3LXOS84wOWmWwaWS5IvZbB8z0gJTxnNXpj3sO/YWN37r1ofi0zG+Fl+k0wwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tony\\source\\repos\\WebApplication1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "projectFilePath": "C:\\Users\\tony\\source\\repos\\myCore6Demo-2\\core6demo\\WinFormsApp1\\WinFormsApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tony\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\tony\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uBcoauWHqDSZakI8Vmdmm9pHZD5FuA5gUOG5bcshcCgtDZEQtnvi6RLkUXliDLFowEgn/R4oZLnn3l5cESdKtw==",
+  "dgSpecHash": "/5x57CqT+pOBSnDg4MSI6sTzM/fjznWpQciGyYhgISK+sFCBSI4PnCwSLow35/3oBI/QXOsXajaVHdVMySwbRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tony\\source\\repos\\WebApplication1\\MES.ConfigService\\MES.ConfigService.csproj",
+  "projectFilePath": "C:\\Users\\tony\\source\\repos\\myCore6Demo-2\\core6demo\\MES.ConfigService\\MES.ConfigService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tony\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\tony\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",

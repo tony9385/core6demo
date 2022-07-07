@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tony\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\tony\\source\\repos\\myCore6Demo-2\\core6demo\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tony\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\tony\\source\\repos\\myCore6Demo-2\\core6demo\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tony\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\tony\\source\\repos\\myCore6Demo-2\\core6demo\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\tony\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\tony\\source\\repos\\myCore6Demo-2\\core6demo\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\tony\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tony\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\tony\\source\\repos\\myCore6Demo-2\\core6demo\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tony\\AppData\\Roaming\\NuGet\\NuGet.Config",

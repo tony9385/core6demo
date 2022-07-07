@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dGfRFEHYKp5JdEDlYaNfzq5M5sFxxqFTyw6q6ZCDr1oFrJhRola6Utx++W89k/ZgTUraRJkqUFCJvIIfHTkgcg==",
+  "dgSpecHash": "LQi6WWkaNbyoLto7KQhHYOskR2LEMZ1FoMI2xsDS1YL/msHK/6FI1QSZkDv1ZYiUq3GM4AffQV5Wpg6sqCfRRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tony\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\tony\\source\\repos\\myCore6Demo-2\\core6demo\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tony\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\tony\\.nuget\\packages\\microsoft.extensions.configuration\\2.0.0\\microsoft.extensions.configuration.2.0.0.nupkg.sha512",

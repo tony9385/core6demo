@@ -3629,11 +3629,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tony\\source\\repos\\WebApplication1\\MES.ConfigService\\MES.ConfigService.csproj",
+      "projectUniqueName": "C:\\Users\\tony\\source\\repos\\myCore6Demo-2\\core6demo\\MES.ConfigService\\MES.ConfigService.csproj",
       "projectName": "MES.ConfigService",
-      "projectPath": "C:\\Users\\tony\\source\\repos\\WebApplication1\\MES.ConfigService\\MES.ConfigService.csproj",
+      "projectPath": "C:\\Users\\tony\\source\\repos\\myCore6Demo-2\\core6demo\\MES.ConfigService\\MES.ConfigService.csproj",
       "packagesPath": "C:\\Users\\tony\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tony\\source\\repos\\WebApplication1\\MES.ConfigService\\obj\\",
+      "outputPath": "C:\\Users\\tony\\source\\repos\\myCore6Demo-2\\core6demo\\MES.ConfigService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tony\\AppData\\Roaming\\NuGet\\NuGet.Config",

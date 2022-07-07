@@ -1,0 +1,17 @@
+2022-06-10 06:13:07.177 +00:00 [INF] Now listening on: http://localhost:5098
+2022-06-10 06:13:07.222 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-10 06:13:07.223 +00:00 [INF] Hosting environment: Development
+2022-06-10 06:13:07.224 +00:00 [INF] Content root path: C:\Users\tony\source\repos\WebApplication1\WebApplication1\
+2022-06-10 06:13:13.040 +00:00 [INF] MyDependency2.WriteMessage Message: 6/10/2022 6:13:13 AM Get Joe Smith Editor Color Title Test  Red
+2022-06-10 06:13:13.042 +00:00 [ERR] Error ===
+2022-06-10 06:13:13.052 +00:00 [INF] HTTP GET /WeatherForecast responded 200 in 72.9894 ms
+2022-06-10 06:15:32.274 +00:00 [INF] Now listening on: http://localhost:5098
+2022-06-10 06:15:32.317 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-10 06:15:32.319 +00:00 [INF] Hosting environment: Development
+2022-06-10 06:15:32.322 +00:00 [INF] Content root path: C:\Users\tony\source\repos\WebApplication1\WebApplication1\
+2022-06-10 06:15:37.214 +00:00 [INF] MyDependency2.WriteMessage Message: 6/10/2022 6:15:37 AM Get Joe Smith Editor Color Title Test  Red
+2022-06-10 06:15:37.216 +00:00 [ERR] Error ===
+2022-06-10 06:15:37.227 +00:00 [INF] HTTP GET /WeatherForecast responded 200 in 71.2233 ms
+2022-06-10 06:15:38.545 +00:00 [INF] MyDependency2.WriteMessage Message: 6/10/2022 6:15:38 AM Get Joe Smith Editor Color Title Test  Red
+2022-06-10 06:15:38.546 +00:00 [ERR] Error ===
+2022-06-10 06:15:38.547 +00:00 [INF] HTTP GET /WeatherForecast responded 200 in 20.5564 ms

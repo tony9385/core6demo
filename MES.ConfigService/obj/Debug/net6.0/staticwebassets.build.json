@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1ITlFPgb9VEI047vHkB7tcvQULxkql36IMmpGqXmY3M=",
+  "Source": "MES.ConfigService",
+  "BasePath": "_content/MES.ConfigService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
